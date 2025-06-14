@@ -68,17 +68,3 @@ This is a full-cycle business intelligence project simulating the role of a data
 | `/docs/`      | Markdown files explaining chart logic, KPIs, and business insights      |
 
 ---
-
-## 🚀 Next Steps
-
-- Add predictive forecasting module for GMV trend
-- Enable RLS by user region
-- Extend funnel with bounce or session durations
-- Port dashboard to Tableau or Looker Studio for multi-platform comparison
-
----
-
-## 🔗 GitHub Hosting Suggestions
-
-
-
